@@ -5,7 +5,6 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-// Function to generate password
 function generatePassword(length) {
     const characters =
         "ABCDEFGHIJKLMNOPQRSTUVWXYZ" +
