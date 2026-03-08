@@ -23,7 +23,7 @@ class BankAccount {
   }
 }
 
-// Example
+
 let acc = new BankAccount("Cedric", 700);
 acc.deposit(250);
 acc.withdraw(150);
